@@ -1,0 +1,5 @@
+PROFILE = 'cristiano'
+USERNAME = 'GuentherSchmitz034'
+PASSWORD = 'xr2RetSm2pdtKD7'
+API_KEY = 'AIzaSyDPA_ZebQ00mTrqueoU4RMiAr5PppacarI'
+IMAGE_PATH = ''
