@@ -24,7 +24,7 @@ def address(data):
 
 if __name__ == '__main__':
     #Download all instagram pictures
-    #download_insta_pictures(config.USERNAME, config.PASSWORD,config.PROFILE)
+    download_insta_pictures(config.USERNAME, config.PASSWORD,config.PROFILE)
 
     image_list = os.listdir(os.getcwd() + "/" + config.PROFILE)
     image_list = [a for a in image_list if a.endswith('.jpg')]
