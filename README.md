@@ -1,5 +1,12 @@
 # instatracer
-Hacked this together yesterday for testing Github-Copilot. But found the idea quite cool.
+Hacked this together yesterday for testing Github-Copilot. But found the idea quite cool. 
+Currently i have other projects that have more priority but feel free to fork it :)
 
 ## How to use
-Get your api key here [https://developers.google.com/workspace/guides/create-credentials](here)
+- Get your api key here [here](https://developers.google.com/workspace/guides/create-credentials)
+- Go to the config file and put in the needed data it's quite obvious what to do there
+
+## TO-DO Would be cool 
+- Visualize coordinates on a real map
+- Add an argparser
+
