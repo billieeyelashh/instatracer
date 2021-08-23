@@ -1,6 +1,6 @@
 # instatracer
 Hacked this together yesterday for testing Github-Copilot. But found the idea quite cool. 
-Currently i have other projects that have more priority but feel free to fork it :)
+Currently I have other projects that have more priority but feel free to fork it :)
 
 ## How to use
 - Get your api key [here](https://developers.google.com/workspace/guides/create-credentials)
